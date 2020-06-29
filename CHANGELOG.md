@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.121.1](https://www.github.com/googleapis/java-notification/compare/v0.121.0...v0.121.1) (2020-06-29)
+
+
+### Dependencies
+
+* update dependency com.google.apis:google-api-services-storage to v1-rev20200430-1.30.9 ([#36](https://www.github.com/googleapis/java-notification/issues/36)) ([cfffc32](https://www.github.com/googleapis/java-notification/commit/cfffc3275ed29637c19ec50fa086f31f944d7f5b))
+
 ### [0.120.2](https://www.github.com/googleapis/java-notification/compare/v0.120.1...v0.120.2) (2020-02-06)
 
 

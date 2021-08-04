@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.123.0](https://www.github.com/googleapis/java-notification/compare/v0.122.4...v0.123.0) (2021-08-04)
+
+
+### Features
+
+* configure initial sp version ([#365](https://www.github.com/googleapis/java-notification/issues/365)) ([e1c37ce](https://www.github.com/googleapis/java-notification/commit/e1c37ce4cace96dd3d2fd6780403cdc47ba26556))
+
 ### [0.122.4](https://www.github.com/googleapis/java-notification/compare/v0.122.3...v0.122.4) (2021-07-06)
 
 

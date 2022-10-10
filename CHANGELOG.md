@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.123.19](https://github.com/googleapis/java-notification/compare/v0.123.18...v0.123.19) (2022-10-10)
+
+
+### Dependencies
+
+* Update dependency google-api-core to v2.10.2 ([#734](https://github.com/googleapis/java-notification/issues/734)) ([72c8135](https://github.com/googleapis/java-notification/commit/72c813548bb49b5945c8c5128ac7af28329791b6))
+* Update dependency typing-extensions to v4.4.0 ([#733](https://github.com/googleapis/java-notification/issues/733)) ([d1e6b4e](https://github.com/googleapis/java-notification/commit/d1e6b4e5f208569b278895f88282d6c0efc1093e))
+* Update dependency zipp to v3.9.0 ([#735](https://github.com/googleapis/java-notification/issues/735)) ([4923b38](https://github.com/googleapis/java-notification/commit/4923b38c23dd7f275983fd59785d0f7c20172b66))
+
 ## [0.123.18](https://github.com/googleapis/java-notification/compare/v0.123.17...v0.123.18) (2022-10-06)
 
 

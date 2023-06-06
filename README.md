@@ -11,6 +11,13 @@ Java idiomatic client for [Google Cloud Pub/Sub Notifications for GCS][product-d
 > Note: This client is a work-in-progress, and may occasionally
 > make backwards-incompatible changes.
 
+:bus: In October 2022, this library has moved to
+[google-cloud-java/java-notification](
+https://github.com/googleapis/google-cloud-java/tree/main/java-notification).
+This repository will be archived in the future.
+Future releases will appear in the new repository (https://github.com/googleapis/google-cloud-java/releases).
+The Maven artifact coordinates (`com.google.cloud:google-cloud-notification`) remain the same.
+
 
 ## Quickstart
 
@@ -160,7 +167,7 @@ Java 11 | [![Kokoro CI][kokoro-badge-image-5]][kokoro-badge-link-5]
 
 Java is a registered trademark of Oracle and/or its affiliates.
 
-[product-docs]: 
+[product-docs]: https://cloud.google.com/storage/docs/pubsub-notifications
 [javadocs]: https://googleapis.dev/java/google-cloud-notification/latest/index.html
 [kokoro-badge-image-1]: http://storage.googleapis.com/cloud-devrel-public/java/badges/java-notification/java7.svg
 [kokoro-badge-link-1]: http://storage.googleapis.com/cloud-devrel-public/java/badges/java-notification/java7.html
